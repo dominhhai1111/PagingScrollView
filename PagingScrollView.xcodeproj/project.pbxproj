@@ -14,6 +14,12 @@
 		E1B7B0421BF0861D00B5BEC9 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E1B7B0411BF0861D00B5BEC9 /* Images.xcassets */; };
 		E1B7B0451BF0861D00B5BEC9 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = E1B7B0431BF0861D00B5BEC9 /* LaunchScreen.xib */; };
 		E1B7B0511BF0861D00B5BEC9 /* PagingScrollViewTests.m in Sources */ = {isa = PBXBuildFile; fileRef = E1B7B0501BF0861D00B5BEC9 /* PagingScrollViewTests.m */; };
+		E1B7B0781BF0968500B5BEC9 /* 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E1B7B0721BF0968500B5BEC9 /* 1.jpg */; };
+		E1B7B0791BF0968500B5BEC9 /* 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E1B7B0731BF0968500B5BEC9 /* 2.jpg */; };
+		E1B7B07A1BF0968500B5BEC9 /* 3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E1B7B0741BF0968500B5BEC9 /* 3.jpg */; };
+		E1B7B07B1BF0968500B5BEC9 /* 4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E1B7B0751BF0968500B5BEC9 /* 4.jpg */; };
+		E1B7B07C1BF0968500B5BEC9 /* 5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E1B7B0761BF0968500B5BEC9 /* 5.jpg */; };
+		E1B7B07D1BF0968500B5BEC9 /* 6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E1B7B0771BF0968500B5BEC9 /* 6.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +46,12 @@
 		E1B7B04A1BF0861D00B5BEC9 /* PagingScrollViewTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PagingScrollViewTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E1B7B04F1BF0861D00B5BEC9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E1B7B0501BF0861D00B5BEC9 /* PagingScrollViewTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PagingScrollViewTests.m; sourceTree = "<group>"; };
+		E1B7B0721BF0968500B5BEC9 /* 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpg; sourceTree = "<group>"; };
+		E1B7B0731BF0968500B5BEC9 /* 2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 2.jpg; sourceTree = "<group>"; };
+		E1B7B0741BF0968500B5BEC9 /* 3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 3.jpg; sourceTree = "<group>"; };
+		E1B7B0751BF0968500B5BEC9 /* 4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 4.jpg; sourceTree = "<group>"; };
+		E1B7B0761BF0968500B5BEC9 /* 5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 5.jpg; sourceTree = "<group>"; };
+		E1B7B0771BF0968500B5BEC9 /* 6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 6.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +93,12 @@
 		E1B7B0331BF0861D00B5BEC9 /* PagingScrollView */ = {
 			isa = PBXGroup;
 			children = (
+				E1B7B0721BF0968500B5BEC9 /* 1.jpg */,
+				E1B7B0731BF0968500B5BEC9 /* 2.jpg */,
+				E1B7B0741BF0968500B5BEC9 /* 3.jpg */,
+				E1B7B0751BF0968500B5BEC9 /* 4.jpg */,
+				E1B7B0761BF0968500B5BEC9 /* 5.jpg */,
+				E1B7B0771BF0968500B5BEC9 /* 6.jpg */,
 				E1B7B0381BF0861D00B5BEC9 /* AppDelegate.h */,
 				E1B7B0391BF0861D00B5BEC9 /* AppDelegate.m */,
 				E1B7B03B1BF0861D00B5BEC9 /* ViewController.h */,
@@ -199,7 +217,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E1B7B07D1BF0968500B5BEC9 /* 6.jpg in Resources */,
 				E1B7B0401BF0861D00B5BEC9 /* Main.storyboard in Resources */,
+				E1B7B07C1BF0968500B5BEC9 /* 5.jpg in Resources */,
+				E1B7B07B1BF0968500B5BEC9 /* 4.jpg in Resources */,
+				E1B7B0781BF0968500B5BEC9 /* 1.jpg in Resources */,
+				E1B7B0791BF0968500B5BEC9 /* 2.jpg in Resources */,
+				E1B7B07A1BF0968500B5BEC9 /* 3.jpg in Resources */,
 				E1B7B0451BF0861D00B5BEC9 /* LaunchScreen.xib in Resources */,
 				E1B7B0421BF0861D00B5BEC9 /* Images.xcassets in Resources */,
 			);
@@ -416,6 +440,7 @@
 				E1B7B0561BF0861D00B5BEC9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E1B7B0571BF0861D00B5BEC9 /* Build configuration list for PBXNativeTarget "PagingScrollViewTests" */ = {
 			isa = XCConfigurationList;
@@ -424,6 +449,7 @@
 				E1B7B0591BF0861D00B5BEC9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
